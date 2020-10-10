@@ -1,6 +1,6 @@
 {
   "name": "@rodhsiao/intl-relativetimeformat",
-  "version": "3.0.0",
+  "version": "7.0.0",
   "description": "@formatjs/intl-relativetimeformat locale data",
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
   "license": "MIT",
