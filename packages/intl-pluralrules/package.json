@@ -1,6 +1,6 @@
 {
   "name": "@roderickhsiao/intl-pluralrules",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "@formatjs/intl-pluralrules locale data",
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
   "license": "MIT",
