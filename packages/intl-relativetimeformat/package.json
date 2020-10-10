@@ -1,0 +1,13 @@
+{
+  "name": "@rodhsiao/intl-relativetimeformat",
+  "version": "3.0.0",
+  "description": "@formatjs/intl-relativetimeformat locale data",
+  "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "PACKAGE_NAME=intl-relativetimeformat node ../../scripts/build-locale-data"
+  },
+  "devDependencies": {
+    "@formatjs/intl-relativetimeformat": "^7.0.0"
+  }
+}

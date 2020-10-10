@@ -1,0 +1,13 @@
+{
+  "name": "@rodhsiao/intl-pluralrules",
+  "version": "3.0.0",
+  "description": "@formatjs/intl-pluralrules locale data",
+  "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "PACKAGE_NAME=intl-pluralrules node ../../scripts/build-locale-data"
+  },
+  "devDependencies": {
+    "@formatjs/intl-pluralrules": "^3.0.0"
+  }
+}

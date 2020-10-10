@@ -1,0 +1,13 @@
+{
+  "name": "@rodhsiao/intl-displaynames",
+  "version": "3.0.0",
+  "description": "@formatjs/intl-displaynames locale data",
+  "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "PACKAGE_NAME=intl-displaynames node ../../scripts/build-locale-data"
+  },
+  "devDependencies": {
+    "@formatjs/intl-displaynames": "^3.0.0"
+  }
+}

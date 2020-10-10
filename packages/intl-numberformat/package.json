@@ -1,0 +1,13 @@
+{
+  "name": "@rodhsiao/intl-numberformat",
+  "version": "5.0.0",
+  "description": "@formatjs/intl-numberformat locale data",
+  "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "PACKAGE_NAME=intl-numberformat node ../../scripts/build-locale-data"
+  },
+  "devDependencies": {
+    "@formatjs/intl-numberformat": "^5.0.0"
+  }
+}

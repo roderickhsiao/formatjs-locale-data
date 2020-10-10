@@ -1,0 +1,13 @@
+{
+  "name": "@rodhsiao/intl-datetimeformat",
+  "version": "2.0.0",
+  "description": "@formatjs/intl-datetimeformat locale data",
+  "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "PACKAGE_NAME=intl-datetimeformat node ../../scripts/build-locale-data"
+  },
+  "devDependencies": {
+    "@formatjs/intl-datetimeformat": "^2.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "@rodhsiao/intl-listformat",
+  "version": "3.0.0",
+  "description": "@formatjs/intl-listformat locale data",
+  "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "prebuild": "PACKAGE_NAME=intl-listformat node ../../scripts/build-locale-data"
+  },
+  "devDependencies": {
+    "@formatjs/intl-listformat": "^4.0.0"
+  }
+}

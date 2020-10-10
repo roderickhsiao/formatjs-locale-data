@@ -1,0 +1,21 @@
+{
+  "name": "locale-data",
+  "private": true,
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "*.md"
+      ],
+      "message": "chore(release): publish",
+      "registry": "https://npm.pkg.github.com"
+    }
+  },
+  "devDependencies": {
+    "copy-concurrently": "^1.0.5",
+    "del": "^6.0.0",
+    "lerna": "^3.22.1",
+    "make-dir": "^3.1.0",
+    "recursive-readdir": "^2.2.2",
+    "terser": "^5.3.4"
+  }
+}
