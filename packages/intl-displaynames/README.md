@@ -1,6 +1,6 @@
 # `@rodhsiao/intl-displaynames`
 
-Provide minified version of [@formatjs/intl-displaynames](https://formatjs.io/docs/polyfills/intl-displaynames/) locale data with patched languages.
+Provide minified version of [@formatjs/intl-displaynames](https://formatjs.io/docs/polyfills/intl-displaynames/) locale data with patched language data.
 
 Package version matches @formatjs major version
 
