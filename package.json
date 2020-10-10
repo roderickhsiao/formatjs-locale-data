@@ -1,6 +1,5 @@
 {
-  "name": "locale-data",
-  "private": true,
+  "name": "formatjs-locale-data",
   "command": {
     "publish": {
       "ignoreChanges": [

@@ -40,7 +40,7 @@ const processFile = async () => {
   await Promise.all([
     cp(localeData, tempFolder),
     cp(patches, tempFolder)
-  ]);
+  ]).catch(e => console.log(e));
 
   console.log('3.', 'Create folder');
   await makeDir(path.resolve(basePath, 'locale-data'));
