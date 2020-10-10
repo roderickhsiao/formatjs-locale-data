@@ -1,6 +1,6 @@
 {
   "name": "@rodhsiao/intl-datetimeformat",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "@formatjs/intl-datetimeformat locale data",
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
   "license": "MIT",
