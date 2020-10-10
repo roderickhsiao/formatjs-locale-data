@@ -5,7 +5,8 @@
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "prebuild": "PACKAGE_NAME=intl-displaynames node ../../scripts/build-locale-data"
+    "prebuild": "PACKAGE_NAME=intl-displaynames node ../../scripts/build-locale-data",
+    "prepublish": "yarn prebuild"
   },
   "devDependencies": {
     "@formatjs/intl-displaynames": "^3.0.0"
