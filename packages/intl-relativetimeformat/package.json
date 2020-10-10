@@ -1,5 +1,5 @@
 {
-  "name": "@rodhsiao/intl-relativetimeformat",
+  "name": "@roderickhsiao/intl-relativetimeformat",
   "version": "7.0.3",
   "description": "@formatjs/intl-relativetimeformat locale data",
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
@@ -11,5 +11,5 @@
   "devDependencies": {
     "@formatjs/intl-relativetimeformat": "^7.0.0"
   },
-  "gitHead": "11d45eb7192619cd2149fbd0cf9d44c816c1b052"
+  "gitHead": "0d98a19dc1147b7b9a98f469464f5018b5ccd166"
 }
