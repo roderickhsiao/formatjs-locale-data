@@ -1,6 +1,6 @@
 {
   "name": "@roderickhsiao/intl-pluralrules",
-  "version": "3.0.8",
+  "version": "4.0.0",
   "description": "@formatjs/intl-pluralrules locale data",
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "prepublish": "yarn prebuild"
   },
   "devDependencies": {
-    "@formatjs/intl-pluralrules": "^3.0.0"
+    "@formatjs/intl-pluralrules": "^4.0.0"
   },
   "gitHead": "7814fd2018e6c5d580c441d03a77de8ee9a806dd"
 }

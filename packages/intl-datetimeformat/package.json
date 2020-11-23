@@ -1,6 +1,6 @@
 {
   "name": "@roderickhsiao/intl-datetimeformat",
-  "version": "2.0.7",
+  "version": "3.0.0",
   "description": "@formatjs/intl-datetimeformat locale data",
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "prepublish": "yarn prebuild"
   },
   "devDependencies": {
-    "@formatjs/intl-datetimeformat": "^2.0.0"
+    "@formatjs/intl-datetimeformat": "^3.0.0"
   },
   "gitHead": "7814fd2018e6c5d580c441d03a77de8ee9a806dd"
 }
