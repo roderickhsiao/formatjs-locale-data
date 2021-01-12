@@ -1,6 +1,6 @@
 {
   "name": "@roderickhsiao/intl-numberformat",
-  "version": "6.0.2",
+  "version": "6.0.1",
   "description": "@formatjs/intl-numberformat locale data",
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
   "license": "MIT",
