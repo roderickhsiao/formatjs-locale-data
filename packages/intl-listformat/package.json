@@ -1,6 +1,6 @@
 {
   "name": "@roderickhsiao/intl-listformat",
-  "version": "5.0.2",
+  "version": "6.0.0",
   "description": "@formatjs/intl-listformat locale data",
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "prepublish": "yarn prebuild"
   },
   "devDependencies": {
-    "@formatjs/intl-listformat": "^5.0.0"
+    "@formatjs/intl-listformat": "^6.0.0"
   },
   "gitHead": "7814fd2018e6c5d580c441d03a77de8ee9a806dd"
 }
