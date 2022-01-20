@@ -2,19 +2,28 @@
 # yarn lockfile v1
 
 
-"@formatjs/ecma402-abstract@1.7.1":
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/@formatjs/ecma402-abstract/-/ecma402-abstract-1.7.1.tgz#1459a9dad654d5d5ec34765965b8e4f22ad6ff81"
-  integrity sha512-FjewVLB2DVEVCvvC7IMffzXVhysvi442i6ed0H7qcrT6xtUpO4vr0oZgpOmsv6D9I4Io0GVebIuySwteS/k3gg==
+"@formatjs/ecma402-abstract@1.11.1":
+  version "1.11.1"
+  resolved "https://registry.yarnpkg.com/@formatjs/ecma402-abstract/-/ecma402-abstract-1.11.1.tgz#595ba3ef4ba38634c012b3ca01954f8d12eb4bf4"
+  integrity sha512-tgtNODZUGuUI6PAcnvaLZpGrZLVkXnnAvgzOiueYMzFdOdcOw4iH1WKhCe3+r6VR8rHKToJ2HksUGNCB+zt/bg==
   dependencies:
+    "@formatjs/intl-localematcher" "0.2.22"
     tslib "^2.1.0"
 
-"@formatjs/intl-datetimeformat@4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@formatjs/intl-datetimeformat/-/intl-datetimeformat-4.0.0.tgz#70b6c9635dc59f29181a3cf70929ea75eceb9aad"
-  integrity sha512-X/odmTSvTPsua1E2+RJGGfJEXP2y5euiMNBqP6o4gYy1deoOJR93tP/WI+ZAps4N5DP/IOXqY+KXGIsLIeVkgQ==
+"@formatjs/intl-datetimeformat@4.5.0":
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/@formatjs/intl-datetimeformat/-/intl-datetimeformat-4.5.0.tgz#a4904f29f08a2fd1c54b3aa641c404c8677d4563"
+  integrity sha512-eDKbzHF0jKwvpyjbDmHC3PG9b1xqVAXIguPhNpHW85L6MU8GCVG/wDYNMP1BSrgpXS5QL0Wx6Za0CuI8h4jXLg==
   dependencies:
-    "@formatjs/ecma402-abstract" "1.7.1"
+    "@formatjs/ecma402-abstract" "1.11.1"
+    "@formatjs/intl-localematcher" "0.2.22"
+    tslib "^2.1.0"
+
+"@formatjs/intl-localematcher@0.2.22":
+  version "0.2.22"
+  resolved "https://registry.yarnpkg.com/@formatjs/intl-localematcher/-/intl-localematcher-0.2.22.tgz#300708cf7067dbd49f258467cc386c0b32437415"
+  integrity sha512-z+TvbHW8Q/g2l7/PnfUl0mV9gWxV4d0HT6GQyzkO5QI6QjCvCZGiztnmLX7zoyS16uSMvZ2PoMDfSK9xvZkRRA==
+  dependencies:
     tslib "^2.1.0"
 
 tslib@^2.1.0:
