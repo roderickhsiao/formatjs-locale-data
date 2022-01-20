@@ -1,6 +1,6 @@
 {
   "name": "@roderickhsiao/intl-displaynames",
-  "version": "5.0.1",
+  "version": "5.4.0",
   "description": "@formatjs/intl-displaynames locale data",
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "prepublish": "yarn prebuild"
   },
   "devDependencies": {
-    "@formatjs/intl-displaynames": "^5.0.0"
+    "@formatjs/intl-displaynames": "^5.4.0"
   },
   "gitHead": "7814fd2018e6c5d580c441d03a77de8ee9a806dd"
 }
