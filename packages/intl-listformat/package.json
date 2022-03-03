@@ -1,6 +1,6 @@
 {
   "name": "@roderickhsiao/intl-listformat",
-  "version": "6.5.0",
+  "version": "6.5.2",
   "description": "@formatjs/intl-listformat locale data",
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
   "license": "MIT",
