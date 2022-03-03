@@ -1,6 +1,6 @@
 {
   "name": "@roderickhsiao/intl-displaynames",
-  "version": "5.4.0",
+  "version": "5.4.2",
   "description": "@formatjs/intl-displaynames locale data",
   "author": "Roderick Hsiao <roderickhsiao@gmail.com>",
   "license": "MIT",
